@@ -1,4 +1,4 @@
 ﻿width = float(input())
-height = 5
+height = 6
 area = width * height
 print(area)
